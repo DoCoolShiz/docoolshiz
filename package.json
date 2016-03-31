@@ -1,0 +1,24 @@
+{
+  "name": "docoolshiz",
+  "version": "1.0.0",
+  "description": "The main Do Cool Shiz Node.js project (also knows as www.doocoolshiz.com ;] )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoCoolShiz/docoolshiz.git"
+  },
+  "keywords": [
+    "Do",
+    "Cool",
+    "Shiz"
+  ],
+  "author": "DoCoolShiz | Isaiah Smith (jordankid93)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoCoolShiz/docoolshiz/issues"
+  },
+  "homepage": "https://github.com/DoCoolShiz/docoolshiz#readme"
+}
